@@ -1,0 +1,153 @@
+body
+{
+	text-align: center;
+	margin: 0px;
+	font-family: 'Merriweather', serif;
+	background-color: #bbe1fa;
+}
+p
+{
+	line-height: 2;
+}
+h1
+{
+	font-family: 'Sacramento', cursive;
+	margin: 50px auto 0 auto;
+	color: #66bfbf;
+	font-size: 5.625rem;
+}
+h2
+{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.5rem;	
+	color: #66bfbf;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+h3
+{
+	font-family: 'Montserrat', sans-serif;
+	color: #11999e;
+}
+.top-container
+{
+	background-color: #e4f9f5;
+	position: relative;
+	padding-top: 100px;
+}
+.mid-container
+{
+	margin: 100px 0px;
+}
+.bottom-container
+{
+	background-color: #66bfbf;
+	padding: 50px 0 20px;
+}
+.cloud2
+{
+	position: absolute;
+	left: 180px;
+	top: 300px;
+}
+.cloud1
+{
+	position: absolute;
+	right: 250px;
+	top: 10px;
+	
+}
+.mountain
+{
+	position: relative;
+	top: 10px;
+	height: 250px;
+
+}
+.profile-picture
+{
+	border-radius: 50%;
+	width: auto;
+	
+}
+.developer
+{
+	width: 25%;
+	border-radius: 10%;
+	float: left;
+	margin-right: 30px;
+
+}
+.hockey
+{
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
+.skill-row
+{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	
+}
+.intro
+{
+	margin: auto;
+	width: 30%;
+}
+hr
+{
+	border-style: dotted;
+	border-width: 6px;
+	height: 0px;
+	width:4%;
+	border-color: #889e81;
+	margin: 100px auto;
+	border-bottom: none;
+}
+.contact-message
+{
+	margin:40px auto 60px;
+	width: 40%;
+}
+.btn{
+	box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+	background-color:#3282b8;
+	border-radius:8px;
+	border:1px solid #124d77;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #154682;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+	background-color:#0061a7;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+a
+{
+	color: #11999e;
+	font-family: 'Montserrat', sans-serif;
+	margin: 10px 20px;
+	text-decoration: none;
+}
+a:hover
+{
+	color: #eaf6f6;
+}
+.copyright
+{
+	color: #eaf6f6;
+	font-size: .75rem;
+	padiing 20px 0px;
+}
